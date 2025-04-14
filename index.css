@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar-toggler-icon{
+    background-color: #fff;
+}
+
+html body{
+    font-family: "Roboto Condensed", sans-serif;
+    background-color: rgba(246, 246, 246, 1.00);
+}
+
+.nav-bar-color{
+    background-color: rgb(56, 0, 45)!important;
+    color: #fff;
+}
+
+.nav-link{
+    color: #e67669 !important;
+}
+
+.nav-link:hover{
+    color: #f5e686 !important;
+    font-size: 17px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1.5);
+}
+
+.nav-highlight{
+    color: rgb(245, 47, 172) !important;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.navbar-brand{
+    color: rgb(195, 6, 110) !important;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 2);
+}
+
+.nav-toggler{
+    filter: invert(100%);
+    background-color: #fff;
+    color: #fff;
+}
+
+h1{
+    font-size: 1.802em;
+    font-weight: 900;
+}
+
+h2{
+    font-size: 1.602em;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 1.424em;
+    font-weight: 700;
+}
+
+h4{
+    font-size: 1.266em;
+}
+
+.footer-jh{
+    text-align: center;
+    background-color: rgba(114, 25, 81, 0.75)!important;
+}
+
+.btn-primary{
+    background-color: #e67669;
+    border-color: #e67669;
+}
+
+.btn-primary:hover{
+    background-color: rgb(143, 2, 80);
+    border-color: rgb(143, 2, 80);
+}
+
+.modal-footer{
+    text-align: center !important;
+}
+
+.carousel-padding{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    background-color: rgba(114, 25, 81, 0.75);
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
+}
