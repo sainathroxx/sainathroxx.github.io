@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fdfdfd;
+  }
+
+  h1, h2, h3 {
+    font-weight: 600;
+  }
+
+  .nav-bar-color {
+    background-color: #004aad;
+  }
+
+  .nav-highlight {
+    font-weight: bold;
+    color: #ffffff !important;
+  }
+
+  .navbar-nav .nav-link {
+    color: #e0e0e0 !important;
+  }
+
+  .navbar-toggler-icon{
+    color: #ffffff ;
+  
+  }
+  .navbar-brand {
+    color: #ffffff !important;
+    font-weight: bold;
+  }
+
+  .footer-jh {
+    background-color: #004aad;
+    color: #ffffff;
+    text-align: center;
+    font-size: 0.9rem;
+  }
+
+  .footer-jh a {
+    color: #f0f0f0;
+    text-decoration: underline;
+  }
+
+  .card-title {
+    color: #004aad;
+  }
+
+.carousel-control-next-icon  
+.carousel-control-prev-icon{
+background-color: #004aad;
+color:#ffffff;
+text-decoration: solid;
+background-size: 60% 60%;
+background-position: center;
+background-repeat: no-repeat;
+}
+  
